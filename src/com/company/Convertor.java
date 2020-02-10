@@ -1,3 +1,7 @@
+/**
+Класс, преводит арабские цифры в римские.
+**/
+
 package com.company;
 
 import java.util.*;
